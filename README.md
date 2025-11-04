@@ -38,6 +38,8 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 | Notebook             | Tema                                      |
 |----------------------|-------------------------------------------|
 | ejercicios_201.ipynb | Trabajo con librerías (NumPy, Matplotlib) |
+| ejercicios_202.ipynb | Trabajo con funciones (lambda, map,       |
+|                      | filter, built-in functions)               |
 ```
 
 > _El repositorio irá creciendo conforme avance en la formación._
