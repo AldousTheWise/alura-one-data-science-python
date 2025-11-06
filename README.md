@@ -40,6 +40,8 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 | ejercicios_201.ipynb | Trabajo con librerías (NumPy, Matplotlib) |
 | ejercicios_202.ipynb | Trabajo con funciones (lambda, map,       |
 |                      | filter, built-in functions)               |
+| ejercicios_203.ipynb | list comprehension, dict comprehension,   |
+|                      | nested lists                              |
 ```
 
 > _El repositorio irá creciendo conforme avance en la formación._
