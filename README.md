@@ -42,6 +42,7 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 |                      | filter, built-in functions)               |
 | ejercicios_203.ipynb | list comprehension, dict comprehension,   |
 |                      | nested lists                              |
+| ejercicios_204.ipynb | try/except                                |
 ```
 
 > _El repositorio irá creciendo conforme avance en la formación._
