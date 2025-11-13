@@ -11,7 +11,7 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 
 **📁 /notebooks** — ejercicios prácticos organizados por módulos:
 
-#### 🐍 Python para Data Science: Primeros Pasos
+#### 🐍 Python para Data Science: Primeros Pasos (ejercicios_1)
 
 ```bash
 | Notebook             | Tema                      |
@@ -32,7 +32,7 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 | ejercicios_107.ipynb | Bucles `for` y `while`           |
 ```
 
-#### 📦 Python para Data Science: Librerías y Estructuras Avanzadas
+#### 📦 Python para Data Science: Librerías y Estructuras Avanzadas (ejercicios_2)
 
 ```bash
 | Notebook             | Tema                                      |
@@ -43,6 +43,15 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 | ejercicios_203.ipynb | list comprehension, dict comprehension,   |
 |                      | nested lists                              |
 | ejercicios_204.ipynb | try/except                                |
+```
+
+#### Pandas: Conociendo la librería. (ejercicios_3)
+
+```bash
+| Notebook             | Tema                                      |
+|----------------------|-------------------------------------------|
+| ejercicios_301.ipynb | Import de libreria y exploración de datos |
+
 ```
 
 > _El repositorio irá creciendo conforme avance en la formación._
