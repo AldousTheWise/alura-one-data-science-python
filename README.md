@@ -53,6 +53,7 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 | ejercicios_301.ipynb | Import de libreria y exploración de datos |
 | ejercicios_302.ipynb | Análisis exploratorio de datos            |
 | ejercicios_303.ipynb | Tratamiento y filtrado de datos           |
+| ejercicios_304.ipynb | Manipulación de datos                     |
 
 ```
 
