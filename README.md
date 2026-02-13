@@ -57,6 +57,15 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 
 ```
 
+#### Numpy: Análisis numérico eficiente con Python (ejercicio_4)
+
+```bash
+| Notebook             | Tema                                      |
+|----------------------|-------------------------------------------|
+| ejercicios_401.ipynb | Import de libreria e importación de datos |
+
+```
+
 > _El repositorio irá creciendo conforme avance en la formación._
 
 ---
