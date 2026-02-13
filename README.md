@@ -57,7 +57,7 @@ Mi objetivo es documentar mi evolución técnica, consolidar conocimiento y cons
 
 ```
 
-#### Numpy: Análisis numérico eficiente con Python (ejercicio_4)
+#### Numpy: Análisis numérico eficiente con Python (ejercicios_4)
 
 ```bash
 | Notebook             | Tema                                      |
